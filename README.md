@@ -63,6 +63,10 @@ As Icpay's user base grows, the platform emphasizes scalability to handle increa
 
 In summary, Icpay's business model centers on being a comprehensive and user-friendly payment platform for utility bills in Africa. By integrating cryptocurrencies, focusing on financial inclusion, and promoting partnerships, Icpay aims to drive growth and adoption across the region, transforming the payment landscape and empowering millions of users in the process.
 
+ 
+ ARCHITECTURAL FLOW
+
+![alt text](https://github.com/ecool9940/Wetech/blob/c971cfc391752b229a71db984826c6797783bc32/Architectural%20Flow.png)
 
 
 
