@@ -36,7 +36,7 @@ Furthermore, Icpay's ability to allow for payment of over 17,000 bills in variou
 The high mobile phone penetration in the region further bolsters Icpay's market potential. With mobile phones being widely used across Africa, especially for financial transactions, Icpay's mobile payment solutions align perfectly with existing consumer behavior, making it easier and more convenient for users to access and utilize the platform for their utility payments.
 
 As Icpay enters the market with its innovative approach, leveraging the ICP blockchain, focusing on customer needs, and providing rewarding incentives, it stands as a transformative force in the African payment ecosystem. With its vision for financial inclusion, seamless utility payments, and embracing the cryptocurrency revolution, Icpay not only addresses the challenges posed by the traditional sector but also paves the way for a new era of secure, efficient, and inclusive payment solutions that empower individuals and businesses across the continent.
-###### Business Model 
+###### BUSINESS MODEL 
 Transaction Fees and Revenue Model:
 Icpay generates revenue through transaction fees charged for each bill payment made on the platform. The fees are designed to be competitive and cost-effective, encouraging frequent usage. Additionally, Icpay may explore partnerships and collaborations with utility providers to share a portion of the transaction fees as a revenue-sharing model.
 
