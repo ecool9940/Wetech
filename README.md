@@ -1,5 +1,6 @@
 # ICPAY
-![alt text](https://github.com/ecool9940/Wetech/blob/f307fd3f55aeb9dfd1e06f6155152cf885bd86d9/MAKE%20BILLS%20PAYMENT%20SEAMLESSLY%20ACROSS%20AFRICA%20(2).png)
+![alt text](https://github.com/ecool9940/Wetech/blob/f307fd3f55aeb9dfd1e06f6155152cf885bd86d9/MAKE%20BILLS%20PAYMENT%20SEAMLESSLY%20ACROSS%20AFRICA%20(2).png) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/icpayafrica)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/icpayafrica)
 
 IcPay is a revolutionary utility payment platform that leverages the power and security of the Internet Computer (ICP) blockchain to streamline and enhance the process of paying various utility bills across Nigeria and multiple African countries. The platform offers a user-friendly interface, supporting payments for airtime, data bundles, internet services, electricity, cable TV, and an expanded range of utility services, ensuring convenience and accessibility to millions of users. 
 ## ABOUT
