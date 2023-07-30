@@ -66,7 +66,7 @@ In summary, Icpay's business model centers on being a comprehensive and user-fri
  
  #### ARCHITECTURAL FLOW
 
-![alt text](https://github.com/ecool9940/Wetech/blob/c971cfc391752b229a71db984826c6797783bc32/Architectural%20Flow.png)
+![alt text](https://github.com/ecool9940/Wetech/blob/531ea49ef4b63e309111b292712f51b208a4edc9/Architectural%20Flow%20(1).png)
 
 
 
