@@ -68,7 +68,9 @@ In summary, Icpay's business model centers on being a comprehensive and user-fri
 
 ![alt text](https://github.com/ecool9940/Wetech/blob/531ea49ef4b63e309111b292712f51b208a4edc9/Architectural%20Flow%20(1).png)
 
+#### TOOLS AND TECHNOLOGY
 
+[Pitch Deck.pdf](https://github.com/ecool9940/Wetech/files/12208737/Pitch.Deck.pdf)
 
 
 
