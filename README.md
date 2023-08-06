@@ -84,6 +84,8 @@ Styled-Components - for styling
 
 [Pitch Deck.pdf](https://github.com/ecool9940/Wetech/files/12208737/Pitch.Deck.pdf)
 
+![Figma](https://www.figma.com/file/OQMpttoLO1lUmBxcDOb6Wp/ICPay-Bill-Payment-App?type=design&node-id=0%3A1&mode=design&t=u9cnVO0pfEFdai6P-1)
+
 ###### Team 
  Elijah Anibi 
 
