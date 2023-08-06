@@ -70,9 +70,23 @@ In summary, Icpay's business model centers on being a comprehensive and user-fri
 
 #### TOOLS AND TECHNOLOGY
 
+ReactJS - web framework
+TypeScript - for static typing
+Express - Web server
+Flutterwave SDK - payment gateway
+Rust - Rewards smart contract/portal
+Styled-Components - for styling
+
 [Pitch Deck.pdf](https://github.com/ecool9940/Wetech/files/12208737/Pitch.Deck.pdf)
 
 #### Team 
+ Elijah Anibi - Product Designer (UI/UX)
+ Cesar Ludovico Angulo Castro - Blockchain Developer/DevOps Engineer
+ Hajia Nofisat - Smart Contract Developer
+ Ogugua Chinny - Community Manager
+ Emeka Nnadi - Project Manager
+ Kazeem David - Backend Developer/Solution Architect
+ Rugile Kab - Front-End Developer
 
 
 
