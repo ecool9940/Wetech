@@ -78,6 +78,8 @@ Flutterwave SDK - payment gateway
 
 Rust 
 
+Node.js
+
 Styled-Components - for styling
 
 Internet Identity and ICP developer tools
