@@ -70,19 +70,17 @@ In summary, Icpay's business model centers on being a comprehensive and user-fri
 
 ###### TOOLS AND TECHNOLOGY
 
-ReactJS - web framework
-
 TypeScript - for static typing
 
 Express - Web server
 
 Flutterwave SDK - payment gateway
 
-Rust - Rewards smart contract/portal
+Rust 
 
 Styled-Components - for styling
 
-Internet Identity
+Internet Identity and ICP developer tools
 
 [Pitch Deck.pdf](https://github.com/ecool9940/Wetech/files/12208737/Pitch.Deck.pdf)
 
