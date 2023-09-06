@@ -87,19 +87,18 @@ Internet Identity and ICP developer tools
 [Pitch Deck.pdf](https://github.com/ecool9940/Wetech/files/12208737/Pitch.Deck.pdf)
 
 ###### TEAM 
- Elijah Anibi 
 
+ Emeka Nnadi 
+ 
  Cesar Ludovico Angulo Castro 
  
- Hajia Nofisat 
- 
- Ogugua Chinny 
- 
- Emeka Nnadi 
+ Ogugua Chinny
  
  Kazeem David 
  
  Rugile Kab 
+
+  Elijah Anibi 
 
 
 
