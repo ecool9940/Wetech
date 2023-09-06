@@ -98,7 +98,7 @@ Internet Identity and ICP developer tools
  
  Rugile Kab 
 
-  Elijah Anibi 
+ Elijah Anibi 
 
 
 
