@@ -94,7 +94,7 @@ Internet Identity and ICP developer tools
  
  Ogugua Chinny
  
- Kazeem David 
+Geraldine Chiamaka
  
  Rugile Kab 
 
